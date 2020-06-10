@@ -11,14 +11,14 @@ Restaurant.destroy_all
 puts "Creating restaurants..."
 dishoom = {
   name: "Dishoom",
-  address: "7 Boundary St, London E2 7JE",
+  adress: "7 Boundary St, London E2 7JE",
   phone_number: "0534507644",
   category: "chinese",
   stars: 5
 }
 pizza_east = {
   name: "Pizza East",
-  address: "56A Shoreditch High St, London E1 6PQ",
+  adress: "56A Shoreditch High St, London E1 6PQ",
   phone_number: "0555507644",
   category: "italian",
   stars: 4 }
